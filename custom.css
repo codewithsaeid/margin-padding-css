@@ -1,14 +1,9 @@
-/*---------- SPACING ----------*/
-
-
-
-/* Padding Zero */
+/* Padding */
 
 .p0 {
 	padding: 0 !important;
 }
 
-/* padding */
 .p1 {
 	padding: 1px !important;
 }
@@ -87,6 +82,42 @@
 
 .p20 {
 	padding: 20px !important;
+}
+
+.p21 {
+	padding: 21px !important;
+}
+
+.p22 {
+	padding: 22px !important;
+}
+
+.p23 {
+	padding: 23px !important;
+}
+
+.p24 {
+	padding: 24px !important;
+}
+
+.p25 {
+	padding: 25px !important;
+}
+
+.p26 {
+	padding: 26px !important;
+}
+
+.p27 {
+	padding: 27px !important;
+}
+
+.p28 {
+	padding: 28px !important;
+}
+
+.p29 {
+	padding: 29px !important;
 }
 
 .p30 {
