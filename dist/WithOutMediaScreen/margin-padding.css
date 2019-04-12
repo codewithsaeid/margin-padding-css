@@ -2836,7 +2836,7 @@
 /**margin right**/
 
 .mr0 {
-	margin-right: 0;
+	margin-right: 0!important;
 }
 
 .mr1 {

@@ -2836,7 +2836,7 @@
 /**margin right**/
 
 .mr0 {
-	margin-right: 0;
+	margin-right: 0!important;
 }
 
 .mr1 {
@@ -6891,7 +6891,7 @@
     /**margin right**/
     
     .xs-mr0 {
-        margin-right: 0;
+        margin-right: 0!important;
     }
     
     .xs-mr1 {
@@ -10947,7 +10947,7 @@
     /**margin right**/
     
     .sm-mr0 {
-        margin-right: 0;
+        margin-right: 0!important;
     }
     
     .sm-mr1 {
@@ -15003,7 +15003,7 @@
     /**margin right**/
     
     .md-mr0 {
-        margin-right: 0;
+        margin-right: 0!important;
     }
     
     .md-mr1 {
@@ -19060,7 +19060,7 @@
     /**margin right**/
     
     .lg-mr0 {
-        margin-right: 0;
+        margin-right: 0!important;
     }
     
     .lg-mr1 {
@@ -23116,7 +23116,7 @@
     /**margin right**/
     
     .xl-mr0 {
-        margin-right: 0;
+        margin-right: 0!important;
     }
     
     .xl-mr1 {
